@@ -1,22 +1,14 @@
+Business Problem :
+Despite strong sales, the business is operating at a loss due to excessive discounting and loss-making subcategories.
 
-Business Problem
+Root Causes:
+Machines, Tables, Binders generating losses
+High average discount (47%)
+Certain customers driving negative profitability
+East region largest loss contributor
 
-The business observed strong sales but inconsistent profitability. The goal was to identify why profits were declining and which segments were responsible.
-
-Approach
-
-Data checks and validation in SQL
-
-KPI analysis (sales, profit, margin, discount)
-
-Loss driver analysis by category/subcategory/region
-
-Customer-level profitability analysis
-
-Power BI dashboard to communicate insights interactively
-
-Outcome
-
-The dashboard enables stakeholders to quickly pinpoint loss sources and take corrective action on discounts and product strategy.
-
-
+Recommendation:
+Reduce discount levels
+Review pricing strategy
+Monitor customer profitability
+Focus on profitable segments
