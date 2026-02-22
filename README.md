@@ -1,62 +1,56 @@
-Retail Profitability Diagnostic Dashboard (SQL + Power BI)
-📌 Overview
+Sales Performance & Profitability Analysis
+📌 Project Overview
 
-This project analyzes a retail sales dataset to evaluate overall performance and identify key drivers of losses. Using SQL for analysis and Power BI for visualization, I created an interactive dashboard that highlights profit leakage across categories, regions, and customers.
+This project analyzes retail sales data to evaluate business performance and identify key drivers of profitability loss. Using SQL for analysis and Power BI for visualization, I developed an interactive dashboard to uncover revenue trends, loss drivers, and customer-level profitability insights.
 
-🎯 Objectives
+🎯 Business Problem
 
-Measure overall business performance (Sales, Profit, Margin, Discount)
+The company observed strong sales but declining profits. The goal was to identify why profitability was negative and which segments were responsible.
 
-Identify loss-driving categories/subcategories
+📊 Key Metrics
 
-Analyze customer-level profitability
+Total Sales: £32,505
 
-Highlight discount impact on profitability
+Total Profit: -£17,573
 
-🗂 Dataset
+Profit Margin: -54%
 
-Superstore retail dataset containing:
-Customer, Category/Subcategory, Region, Sales, Profit, Discount, and Profit Margin.
-
-🛠 Tools Used
-
-SQL (MySQL) – KPI calculations, loss drivers, customer analysis
-
-Power BI – dashboard building, slicers, interactive visuals
-
-Excel – quick data inspection (optional)
-
-📊 Dashboard Features
-
-KPI cards: Total Sales, Total Profit, Profit Margin %, Avg Discount %
-
-Profit by Category/Subcategory (loss drivers)
-
-Profit by Region
-
-Customer-level loss analysis table and bar chart
-
-Slicers: Region, Category/Subcategory, Customer
+Average Discount: 47%
 
 🔍 Key Insights
 
-Overall profit is negative despite strong sales → profitability issue
+High discount levels significantly impacting profitability
 
-Machines, Tables, and Binders are the biggest loss drivers
+Subcategories Machines, Tables, and Binders driving losses
 
-High discounts correlate with negative margins
+East region contributing the largest negative profit
 
-Certain customers contribute disproportionately to losses
+Certain customers generating consistent losses
 
-✅ Recommendations
+🛠 Tools Used
 
-Review discounting strategy for loss-making subcategories
+SQL | Power BI | Excel
 
-Apply discount limits or approval workflows for high-discount orders
+📈 Dashboard Features
 
-Focus sales efforts on higher-margin segments
+KPI cards showing business performance
 
-Track customer profitability regularly to reduce profit leakage
+Profit by Category analysis
 
+Profit by Region visualization
+
+Customer loss analysis
+
+Interactive slicers
+
+💡 Business Recommendations
+
+Implement discount controls
+
+Review pricing strategy for loss-making products
+
+Monitor customer profitability regularly
+
+Focus on high-margin segments
 
 
