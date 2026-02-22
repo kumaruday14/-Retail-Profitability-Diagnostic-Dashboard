@@ -1,0 +1,22 @@
+
+Business Problem
+
+The business observed strong sales but inconsistent profitability. The goal was to identify why profits were declining and which segments were responsible.
+
+Approach
+
+Data checks and validation in SQL
+
+KPI analysis (sales, profit, margin, discount)
+
+Loss driver analysis by category/subcategory/region
+
+Customer-level profitability analysis
+
+Power BI dashboard to communicate insights interactively
+
+Outcome
+
+The dashboard enables stakeholders to quickly pinpoint loss sources and take corrective action on discounts and product strategy.
+
+
